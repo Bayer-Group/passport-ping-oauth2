@@ -78,6 +78,7 @@ application:
 
 ## Credits
 
+  - [Jared Hanson](https://github.com/jaredhanson)
   - [Brenden McKamey](http://github.com/bsmckamey)
   - [Yongzheng Huang](http://github.com/hahooy)
 
